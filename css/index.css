@@ -1,0 +1,49 @@
+/* @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap'); */
+
+body{
+background-color : #343233;
+
+}
+/* #divHeader{
+    position: relative;
+    animation: mydiv 10s infinite;
+    animation-timing-function: linear;
+}
+@keyframes mydiv{
+    from{left: 0px;}
+    to{left: 200px;    }
+} */
+
+#divHeader{
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+    text-shadow: 4px 4px 4px #aaa;
+    margin-bottom: 40px;
+    /* position: fixed;  */
+     
+}
+#myImg{
+
+    float: right;
+    position: relative;
+    border-radius: 50%;
+    margin-bottom: 30px;
+}
+hr{
+    margin-top: 50px;
+    width: 75%;
+}
+#aboutMe{
+    margin-top: 10px;
+    margin-left: 30px;
+    font-style: inherit;
+}
+#parAboutMe{
+    font-size: 18px;
+    color: lavender;
+    text-shadow: 0.5px 0.5px 0px red;
+}
+li{
+    color: white;
+    
+}
